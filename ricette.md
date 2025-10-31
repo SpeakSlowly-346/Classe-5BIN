@@ -1,4 +1,8 @@
 # Ricette di Famiglia
 ## Elenco della ricetta
+
+* ricetta "spaghetti, aglio, olio, peperoncino e prezzemolo"
 file spaghetti.md
-ricetta "spaghetti, aglio, olio, peperoncino e prezzemolo"
+
+* Ricette "Pennete al salmone"
+file: pennette2.md
