@@ -2,3 +2,6 @@
 ## Elenco della ricetta
 file spaghetti.md
 ricetta "spaghetti, aglio, olio, peperoncino e prezzemolo"
+
+file risotto1.md
+ricetta "risotto ai funghi"
